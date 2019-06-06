@@ -1,0 +1,45 @@
+.h1 {
+    margin-left: 10px;
+}
+
+.inputs {
+    display: inline-table;
+    vertical-align:middle;
+    border: 1px solid green;
+    margin-left: 10px;
+}
+
+.inputs label {
+    display:inline-block;
+    float: right;
+}
+
+.edit_btn {
+    width: 98%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black;
+    background-color: darkgreen;
+    border: 2px solid black;
+}
+
+.update_btn {
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black;
+    background-color: darkgreen;
+    border: 2px solid black;
+}
+
+.close_btn {
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black;
+    background-color: darkgreen;
+    border: 2px solid black;
+}

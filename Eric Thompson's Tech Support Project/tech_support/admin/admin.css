@@ -1,0 +1,22 @@
+/********************************************************************
+* Button Styling
+********************************************************************/
+.btn-group button {
+    display: block; /* Vertical Alignment */
+    background-color: #4CAF50; /* Green background */
+    border: 2px solid black; /* Green border */
+    color: white; /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    width: 200px;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 10px;
+    float: left;
+    overflow: auto;
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+    background-color: #3e8e41;
+}
